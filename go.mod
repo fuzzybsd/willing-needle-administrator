@@ -3,7 +3,7 @@ module github.com/fuzzybsd/willing-needle-administrator
 go 1.18
 
 require (
-	github.com/fuzzybsd/willing-needle-core v0.0.0
+	github.com/fuzzybsd/willing-needle-core v0.0.2
 	github.com/labstack/echo/v4 v4.7.2
 )
 
