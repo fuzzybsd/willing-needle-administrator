@@ -1,9 +1,9 @@
-module github.com/fuzzybsd/willing_needle-administrator
+module github.com/fuzzybsd/willing-needle-administrator
 
 go 1.18
 
 require (
-	github.com/fuzzybsd/willing_needle-core v0.0.0-00010101000000-000000000000
+	github.com/fuzzybsd/willing-needle-core v0.0.0
 	github.com/labstack/echo/v4 v4.7.2
 )
 
@@ -21,4 +21,4 @@ require (
 	golang.org/x/time v0.0.0-20201208040808-7e3f01d25324 // indirect
 )
 
-replace github.com/fuzzybsd/willing_needle-core => ../willing_needle-core
+// replace github.com/fuzzybsd/willing-needle-core => ../willing-needle-core

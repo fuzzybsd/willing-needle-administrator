@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/fuzzybsd/willing_needle-administrator/handler"
+	"github.com/fuzzybsd/willing-needle-administrator/handler"
 	"github.com/labstack/echo/v4"
 	"github.com/labstack/echo/v4/middleware"
 )

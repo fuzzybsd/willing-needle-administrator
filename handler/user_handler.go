@@ -5,7 +5,7 @@ import (
 
 	"github.com/labstack/echo/v4"
 
-	"github.com/fuzzybsd/willing_needle-core/model"
+	"github.com/fuzzybsd/willing-needle-core/model"
 )
 
 type (
